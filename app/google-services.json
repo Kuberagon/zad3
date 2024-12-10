@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5441773911",
+    "project_id": "giera-946b9",
+    "storage_bucket": "giera-946b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5441773911:android:ed9e9ae85f2bfec87cde12",
+        "android_client_info": {
+          "package_name": "com.example.giera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzqNm5DaU9xqyfulRzze69pzEoUNb22qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5441773911:android:dafa5004382446837cde12",
+        "android_client_info": {
+          "package_name": "com.example.gieras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzqNm5DaU9xqyfulRzze69pzEoUNb22qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
