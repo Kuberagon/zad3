@@ -13,7 +13,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.giera"
-        minSdk = 35
+        minSdk = 31
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
@@ -64,6 +64,8 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+    implementation ("androidx.core:core-splashscreen:1.0.0")
+    implementation ("androidx.datastore:datastore-preferences:1.0.0")
     implementation("androidx.compose.material3:material3:1.0.0")
     implementation("androidx.compose.ui:ui-tooling:1.4.0")
     implementation ("androidx.navigation:navigation-compose:2.5.3")
